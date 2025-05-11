@@ -1,5 +1,5 @@
 /build/
 
-/cache/clangd/index/
+.cache/clangd/index/
 
 .swp
